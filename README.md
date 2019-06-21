@@ -1,1 +1,3 @@
-# UDAND_EDA_R
+# Udacity Data Analysis Nanodegree project
+# Exploratory data analysis with R
+
