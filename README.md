@@ -8,3 +8,12 @@ To this end, we study the distribution and correlation of the different wine fea
 
 The EDA of this dataset was performed with R.
 The code and the report of this project can be found in `./red_wine.Rmd` and `./red_wine.html` respectively.
+
+### Software and libraries
+
+* [Rstudio](https://www.rstudio.com/)
+* [ggplot2](https://ggplot2.tidyverse.org/)
+* [gridExtra](https://cran.r-project.org/web/packages/gridExtra/vignettes/arrangeGrob.html)
+* [dplyr](https://db.rstudio.com/dplyr/)
+* [corrplot](https://cran.r-project.org/web/packages/corrplot/vignettes/corrplot-intro.html)
+* [ggpubr](https://rpkgs.datanovia.com/ggpubr/)
